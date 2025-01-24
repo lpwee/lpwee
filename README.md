@@ -2,11 +2,11 @@
 
 I am currently:
 
-- Project Intern @ Nethermind
+- 🔭 Project Intern @ Nethermind
 
 I used to be:
 
-- AI Engineer Intern @ Temus
+- 🤖 AI Engineer Intern @ Temus
 
 I like to write software that people will find useful. But otherwise I spend my time collecting skills that I think will be useful for building software in the future :)
 - 🌱 I’m currently learning cloud computing & system design (well i am finding time to read in my free time)
