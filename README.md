@@ -2,10 +2,11 @@
 
 I am currently:
 
-- 🔭 Project Intern @ Nethermind
+Studying!
 
 I used to be:
 
+- 🔭 Project Intern @ Nethermind
 - 🤖 AI Engineer Intern @ Temus
 
 I like to write software that people will find useful. But otherwise I spend my time collecting skills that I think will be useful for building software in the future :)
