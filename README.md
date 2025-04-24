@@ -2,7 +2,7 @@
 
 I am currently:
 
-Studying!
+- ☁️ Incoming Intern @ GovTech
 
 I used to be:
 
