@@ -2,12 +2,11 @@
 
 I am currently:
 
-- In California! 🌊🌴🌉 Exchange student @ UCSC
+- Back in NTU! Completing my degree :D
 
 I used to be:
-
+-  Exchange student @ UCSC, California! 🌊🌴🌉
 - ☁️ Software Engineer Intern @ GovTech
-- 🔭 Project Intern @ Nethermind
 - 🤖 AI Engineer Intern @ Temus
 
 <!--
