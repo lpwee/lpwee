@@ -6,8 +6,11 @@ I am currently:
 
 I used to be:
 -  Exchange student @ UCSC, California! 🌊🌴🌉
+    - Studied Distributed Systems, Compilers, and Applied ML 
 - ☁️ Software Engineer Intern @ GovTech
+    - Worked on cloud infrastructure, observability, auto-remidiation     
 - 🤖 AI Engineer Intern @ Temus
+    - Worked on RAG systems!
 
 <!--
 **lpwee/lpwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
